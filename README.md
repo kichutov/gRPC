@@ -1,7 +1,7 @@
 # gRPC
 Simple implementation of gRPC server and client
 
-The repository contains absolutely all folders and files (including the "target" folder).
+The repository contains absolutely all folders and files (including the "target" folder).  
 The "target" folder contains important generated classes.
 
 ### Instruction:
